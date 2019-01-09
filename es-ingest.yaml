@@ -43,7 +43,7 @@ spec:
         - name: HTTP_ENABLE
           value: "true"
         - name: ES_JAVA_OPTS
-          value: -Xms4g -Xmx4g
+          value: -Xms1g -Xmx1g
         - name: NETWORK_HOST
           value: _site_,_lo_
         - name: PROCESSORS

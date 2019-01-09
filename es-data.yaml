@@ -43,7 +43,7 @@ spec:
         - name: HTTP_ENABLE
           value: "true"
         - name: ES_JAVA_OPTS
-          value: -Xms2g -Xmx2g
+          value: -Xms1g -Xmx1g
         - name: PROCESSORS
           valueFrom:
             resourceFieldRef:
