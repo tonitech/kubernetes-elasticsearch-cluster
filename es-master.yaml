@@ -73,4 +73,4 @@ spec:
               medium: ""
             name: "storage"
       nodeSelector:
-        es-master: true
+        es-master: "true"

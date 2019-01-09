@@ -77,4 +77,4 @@ spec:
               medium: ""
             name: storage
       nodeSelector:
-        es-data: true
+        es-data: "true"

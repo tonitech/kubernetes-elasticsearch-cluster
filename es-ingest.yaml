@@ -79,4 +79,4 @@ spec:
               medium: ""
             name: storage
       nodeSelector:
-        es-ingest: true
+        es-ingest: "true"
